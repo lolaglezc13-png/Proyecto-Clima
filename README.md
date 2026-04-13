@@ -24,6 +24,6 @@ Este proyecto es un sistema automático desarrollado en **Python** que se conect
 ![Gráfico de ejemplo](analisis_extremos_clima.png)
 
 ## 👤 Autores
-- **Alumno/a:** [Nombre del Alumno]
-- **Curso:** [Curso escolar]
-- **Institución:** [Nombre del centro educativo]
+- **Alumno/a:** [LOLA GLEZ]
+- **Curso:** [IA en GESTIÓN AMBIENTAL]
+- **Institución:** [Formación Line]
