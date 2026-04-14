@@ -27,3 +27,6 @@ Este proyecto es un sistema automático desarrollado en **Python** que se conect
 - **Alumno/a:** [LOLA GLEZ]
 - **Curso:** [IA en GESTIÓN AMBIENTAL]
 - **Institución:** [Formación Line]
+
+🧠 Módulo de Predicción
+Hemos implementado un modelo de Regresión Lineal que permite estimar la evolución de la temperatura durante las próximas horas basándose en la tendencia actual.
